@@ -1,0 +1,22 @@
+E:\New folder\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+E:\New folder\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+E:\New folder\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student Management System.csprojResolveAssemblyReference.cache
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.Cache
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmHome.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmLogin.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmAdminRegister.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmStudentAdd.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmStudentMenu.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmStudentView.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmlectureMenu.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmTutorAdd.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmTutorView.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmExams.resources
+E:\New folder\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmReport.resources
+E:\New folder\Student Management System\Student Management System\bin\Debug\MySql.Data.dll
+E:\New folder\Student Management System\Student Management System\bin\Debug\Renci.SshNet.dll
+E:\New folder\Student Management System\Student Management System\bin\Debug\MySql.Data.xml
